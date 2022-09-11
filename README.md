@@ -149,7 +149,7 @@ def create_adder(x):
  **Disadvantages**: 
 
 - **Steep learning curve**: ****Due to FP reliability on mathematics and the fact that FP is a bit more different than other programming paradigms, make some people find it hard to learn and use. Still, it’s a relative thing and depends on that person’s pre-knowledge and preferences
-- **Sometimes It gets complex due to immutability :** As seen in [Example 3](https://www.notion.so/Programming-Paradigms-Functional-Programming-b47d5c7a2ab94cf383ff897fbb7b51cf), sometimes we need to replace some simple things like loops with recursion due to violations of Immutability (since loops require modifying an iteration-variable’s value)
+- **Sometimes It gets complex due to immutability :** As seen in [Example 3](#immutability), sometimes we need to replace some simple things like loops with recursion due to violations of Immutability (since loops require modifying an iteration-variable’s value)
 - **Less tools, frameworks and smaller community :** Comparing FP to other paradigms like OOP it has a much smaller community and less tools and frameworks.
 
 ### Functional Programming languages
