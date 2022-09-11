@@ -98,7 +98,7 @@ def double_value():
 
 ```
 
-### First-Order & Higher-Order Functions
+### First-Class & Higher-Order Functions
 
 - **First-Class Functions:** They are functions that are called or treated as variables, these functions can be used or passed onto Higher-Order Functions.
 
