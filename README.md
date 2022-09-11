@@ -134,9 +134,11 @@ def create_adder(x):
     return adder
 ```
 
-### Applications on Functional Programming
+### When to Use Functional Programming
 
-- 
+- When a lot of concurrency and parallel programming is needed
+- When implementing algorithms that heavily depend on mathematics
+- When performing a lot of operations on the same data set
 
 ### Advantages & Disadvantages of Functional Programming
 
